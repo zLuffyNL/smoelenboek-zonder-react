@@ -1,0 +1,26 @@
+h1 {
+    position: relative;
+    text-align: right;
+    color:rgb(50, 50, 50);
+}
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:rgb(206, 200, 255);
+    margin-left: 110px;
+    margin-right: 110px;
+}
+.image-set {
+    width: 200px;
+    height: 200px;
+    border-style: outset;
+    border-width: 5px;      
+    border-color: rgb(77, 0, 145);
+    border-radius: 4px;
+}
+.mail {
+    font-size: 15px;
+    position: relative;
+    top: 110px;
+    left: 10px;
+}
+/*Make the borders/margins of the web black. If possible, make them in the bottom.*/
